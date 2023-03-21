@@ -8,7 +8,6 @@ namespace CatalogAPI.Repositories
     {
         private readonly CatalogContext _dbContext;
 
-\\user2 hahahahaha here
         public CatalogRepository(CatalogContext dbContext)
         {
             _dbContext = dbContext;
