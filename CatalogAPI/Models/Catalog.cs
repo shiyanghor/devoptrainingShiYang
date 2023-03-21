@@ -21,6 +21,7 @@ namespace CatalogAPI.Models
         public long CatalogId { get; set; }
         [Column("Catalog_Name")]
         [Required]
+	//user2 lalalala
         [StringLength(50)]
 
 
