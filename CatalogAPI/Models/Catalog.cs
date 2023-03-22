@@ -40,3 +40,5 @@ namespace CatalogAPI.Models
 }
 
 //test smartgit
+
+//user2 test smartgit again
