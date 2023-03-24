@@ -1,6 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
+//user3 git status check
+
 namespace CatalogAPI.Models
 {
     [Table("Product")]
