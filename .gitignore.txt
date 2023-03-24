@@ -1,0 +1,2 @@
+CatalogAPI/Diablo4
+CatalogAPI/Diablo4.txt
